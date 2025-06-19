@@ -1,1 +1,1 @@
-# New things to learn try to memories each Commands
+# Now i am trying to learn git Branch creation through VS code 

@@ -1,0 +1,1 @@
+#New things to learn try to memories each Commands
